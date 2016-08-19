@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BT Onsite]]></title>
-        <description><![CDATA[BT Onsite]]></description>
+        <title><![CDATA[Body Techniques Corporate Onsite Wellness Suite]]></title>
+        <description><![CDATA[Body Techniques Corporate Onsite Wellness Suite]]></description>
         <link>https://thegrid.ai/bt-onsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 10:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 20:35:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bt-onsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6ccac34114ef7c621f5faddf5dc13c5/croprotate.jpg?cropheight=1280&cropwidth=1217&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F363372671c3cf8462d301e87fbca1aedac70dfde.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/bt-onsite/f0c1af1c-090d-49b0-87bd-fe3fa770510c/index.html</link>
+            <guid isPermaLink="false">f0c1af1c-090d-49b0-87bd-fe3fa770510c</guid>
+            <pubDate>Fri, 19 Aug 2016 20:34:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65402f27-22ca-4939-89ba-ee1c08ea5d1e.png">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/bt-onsite/9d88cba9-fd67-42db-bcd7-d67dc13e609b/index.html</link>
             <guid isPermaLink="false">9d88cba9-fd67-42db-bcd7-d67dc13e609b</guid>
             <pubDate>Thu, 21 Jan 2016 10:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e7d514-6d6a-46b4-83c7-3e1a1948cb04.jpg">]]></description>
-            <link>https://thegrid.ai/bt-onsite/f0c1af1c-090d-49b0-87bd-fe3fa770510c/index.html</link>
-            <guid isPermaLink="false">f0c1af1c-090d-49b0-87bd-fe3fa770510c</guid>
-            <pubDate>Thu, 21 Jan 2016 10:21:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
